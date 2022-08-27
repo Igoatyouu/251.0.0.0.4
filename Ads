@@ -5,3 +5,5 @@
 - generic profile card rendering
 
 - message ext
+
+- story ad afi
