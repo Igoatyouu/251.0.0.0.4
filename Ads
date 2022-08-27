@@ -11,3 +11,5 @@
 - ix bloks prefetch
 
 - reels ad profile and caption optimizations android
+
+- reels bloks deeplinking
