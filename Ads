@@ -9,3 +9,5 @@
 - story ad afi
 
 - ix bloks prefetch
+
+- reels ad profile and caption optimizations android
